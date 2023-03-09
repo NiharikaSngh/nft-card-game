@@ -8,6 +8,14 @@
 - Attack/Defend in each move
 - Change battle background during the game
 
+[![Register](https://imgur.com/1xjRlCh)]
+
+[![Create Battle] (https://imgur.com/Z0P5oD1)]
+
+[![Join Battle] (https://imgur.com/DFSLnc6)]
+
+[![Waiting for Opponent] (https://imgur.com/mhlSxDU)]
+
 ### Deployed Smart Contract
 
 ## Tech Stack
