@@ -19,16 +19,6 @@ Live Website (https://spaceoz.netlify.app/)
 **Client:** React.JS, tailwind
 
 **Server:** Avalanche Fuji C-Chain, Hardhat js, Solidity
-## Roadmap
-
-- [x]  Player To Earn
-- [x]  Multiple Owner Ownership
-- [ ]  Multiplayer Support like a open-world a arena
-- [ ]  OBJKT.com integration
-- [ ]  Security Enhancements/ Auditing in the Smart Contract
-- [ ]  More upgrades and abilities
-- [ ]  Improve gaming expereince
-- [ ]  Improve UI/UX for the Inventory
 
 ## Contributing
 
