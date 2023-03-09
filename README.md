@@ -8,11 +8,7 @@
 - Attack/Defend in each move
 - Change battle background during the game
 
-### Deployed Smart Contracts
-
-## Demo
-
-Live Website (https://spaceoz.netlify.app/)
+### Deployed Smart Contract
 
 ## Tech Stack
 
