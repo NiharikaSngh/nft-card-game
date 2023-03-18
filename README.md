@@ -49,11 +49,6 @@ Don't forget to give the project a star! Thanks again!
     ```
 6. Open a Pull Request
 
-## Feedback & Contact
-
-If you have any feedback or contact, please reach out to me at 0.niharika.2@gmail.com
-
-
 ## Authors
 
 - [@NiharikaSngh](https://www.github.com/NiharikaSngh)
